@@ -1,0 +1,69 @@
+* {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	margin: 0px;
+	padding: 0px;
+}
+
+
+
+#contenedor-menu{
+    background: black;
+    padding-top: 50px;
+    padding-bottom: 80px;
+}
+
+#menu{
+    float: right;
+}
+
+.nav-link{
+    color: aliceblue;
+}
+
+
+
+
+/*--Graficos--*/
+
+#titulo-simulador{
+    text-align: center;
+    margin-top: -340px;
+}
+
+
+#myChart{
+    background: #14213d;
+    margin-top: 40px;
+    text-size-adjust: 40px;
+}
+
+#botonGraficos {
+   margin-top: 140px;
+   margin-left: 80%;
+   border-radius: 7px;
+}
+
+#datos-historicos{
+    background: chartreuse;
+    height: 780px;
+    margin-top: 40px;
+}
+
+
+
+#graficos{
+    background: blue;
+    height: 800px;
+    width: 900px;
+    padding-top: 150px;
+    padding-left: 35px;
+}
+
+
+
+
+
+
+
