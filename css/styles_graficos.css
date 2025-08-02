@@ -1,0 +1,98 @@
+#titulo-simulador{
+    text-align: center;
+    margin-top: -340px;
+}
+
+#titulo_datos_historicos{
+    text-align: center;
+    padding-top: 50px;
+    color: aliceblue;
+}
+
+
+#myChart{
+    background: #14213d;
+    margin-top: 40px;
+    text-size-adjust: 40px;
+}
+
+
+
+#contenedor_grafico{
+    background:#355070;
+    height: 740px;
+    width:1400px;
+    margin-top: 40px;
+    border-radius: 12px;
+}
+
+/*---GRÁFICOS---*/
+
+#titulo-graficos{
+    text-align: center;
+    color: aliceblue;
+    padding-top: 60px;
+}
+
+#contenedor-graficos{
+    background: blueviolet;
+    height: 700px;
+    width: 1200px;
+    margin-top: 50px;
+    border-radius: 12px;
+    
+}
+
+#grafico_historico_barras{
+    width: 900px;
+    height: 400px; 
+    padding-top: 10px; 
+    
+}
+
+
+#grafico_barras{
+    padding-top: 2%;
+    width: 900px;
+    height: 900px;
+    
+    
+}
+
+
+#grafico_torta{
+    margin-left: 28%;
+    width: 500px;
+    height: 700px;
+}
+
+
+
+
+
+
+/*---BOTONES---*/
+
+#botonGrafico_barras {
+   margin-top: 130px;
+   margin-left: 100PX;
+   border-radius: 7px;
+   background: #f77f00;
+   border-color: #f77f00;
+   font-weight: bold;
+   font-size: 16px;
+}
+
+#botonGrafico_torta {
+   margin-top: -114px;
+   margin-left: 28%;
+   border-radius: 7px;
+   background: #f77f00;
+   border-color: #f77f00;
+   font-weight: bold;
+   font-size: 16px;
+}
+
+
+
+

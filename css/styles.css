@@ -9,57 +9,62 @@
 
 
 #contenedor-menu{
-    background: black;
+    background:black;
     padding-top: 50px;
     padding-bottom: 80px;
+    height: 220px;
 }
 
 #menu{
     float: right;
+    padding-top: 70px;
+    margin-right: 2%;
+}
+
+#menu a{
+    padding: 0px 50px;
 }
 
 .nav-link{
     color: aliceblue;
 }
 
+#logo{
+    width: 270px; 
+    height: 128px;
+    margin-top: -7px;
+    margin-left: 50px;
 
+}
 
+#renovable{
+    width: 280px; 
+    height: 178px;
+    float: right;
+    padding-right: 45px;
+    margin-top: -40px;
+}
 
-/*--Graficos--*/
-
-#titulo-simulador{
-    text-align: center;
-    margin-top: -340px;
+#logo_inicio{
+    width: 40px;
+    margin-top: -10px;
 }
 
 
-#myChart{
-    background: #14213d;
-    margin-top: 40px;
-    text-size-adjust: 40px;
-}
+/*--BOTONES--*/
 
-#botonGraficos {
-   margin-top: 140px;
-   margin-left: 80%;
-   border-radius: 7px;
-}
-
-#datos-historicos{
-    background: chartreuse;
-    height: 780px;
-    margin-top: 40px;
+#calcular{
+    background: #f77f00;
+    border-color: #f77f00;
+    font-weight: bold;
 }
 
 
 
-#graficos{
-    background: blue;
-    height: 800px;
-    width: 900px;
-    padding-top: 150px;
-    padding-left: 35px;
-}
+
+
+
+
 
 
 
